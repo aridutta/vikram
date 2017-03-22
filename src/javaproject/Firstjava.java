@@ -7,7 +7,7 @@ public class Firstjava {
 	}
 	public void masterDemo() {
 
-		System.out.println("This is a master demo");
+		System.out.println("This is a master demo i change it ");
 }
 
 	public void  display(){
