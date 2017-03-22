@@ -13,6 +13,9 @@ public class Firstjava {
 	public void  display(){
 		System.out.println("hello i am show method");
 	}
+	public void  display2(){
+		System.out.println("hello i am show method");
+	}
 	public static void main(String[] args) {
 		
 		Firstjava obj=new Firstjava();
