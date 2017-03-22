@@ -1,7 +1,13 @@
 package javaproject;
 
 public class Firstjava {
+	
+	
+	public void  show(){
+		System.out.println("hello i am show method");
+	}
 	public static void main(String[] args) {
-		System.out.println("hello  i am  vikram singh  ");
+		Firstjava obj=new Firstjava();
+		obj.show();
 	}
 }
