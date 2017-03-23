@@ -21,6 +21,10 @@ public class Firstjava {
 
 	}
 
+	public void new_method2() {
+		System.out.println("Added by vikram Today.");
+
+	}
 	public void mansi(){
 		System.out.println("Hi! I am double awesome.");
 		
