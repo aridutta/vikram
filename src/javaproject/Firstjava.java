@@ -34,6 +34,12 @@ public class Firstjava {
 		System.out.println("Hi! I am double awesome.");
 		
 	}
+	public void mansi2(){
+		System.out.println("Hi! I am double awesome.");
+		
+	}
+	
+	
 
 
 // push this to vikram Branch
