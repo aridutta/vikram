@@ -51,7 +51,7 @@ public class Firstjava {
 // push this to vikram Branch
 
 	public static void main(String[] args) {
-
+Important obj3=new Important();
 		Firstjava obj = new Firstjava();
 		obj.masterDemo();
 		obj.new_method();
@@ -60,6 +60,7 @@ public class Firstjava {
 		obj.show();
 		obj.display();
 		obj2.sum(2, 3);
+		obj3.Message();
 
 	}
 }
