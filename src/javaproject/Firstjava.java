@@ -38,16 +38,15 @@ public class Firstjava {
 		System.out.println("Hi! I am double awesome.");
 		
 	}
-	public void mastermethod(){
-		System.out.println("hi I am master method.");
+	
 		
-	}
+	
 	public void vikrambranch(){
 		System.out.println("hi I am vikrambranch method.");
 		
 	}
 	//i added a vikrambranch
-//i added mastermethod
+
 
 // push this to vikram Branch
 
