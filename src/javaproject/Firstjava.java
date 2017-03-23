@@ -20,12 +20,18 @@ public class Firstjava {
 		System.out.println("Added Today.");
 
 	}
+	public void mansi(){
+		System.out.println("Hi! I am awesome.");
+		
+	}
+	
 
 	public static void main(String[] args) {
 
 		Firstjava obj = new Firstjava();
 		obj.masterDemo();
 		obj.new_method();
+		obj.mansi();
 		Data obj2 = new Data();
 		obj.show();
 		obj.display();
