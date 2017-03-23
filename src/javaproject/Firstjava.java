@@ -38,9 +38,12 @@ public class Firstjava {
 		System.out.println("Hi! I am double awesome.");
 		
 	}
+	public void mastermethod(){
+		System.out.println("hi I am master method.");
+		
+	}
 	
-	
-
+//i added mastermethod
 
 // push this to vikram Branch
 
