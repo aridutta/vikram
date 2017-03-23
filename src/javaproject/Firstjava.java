@@ -25,6 +25,10 @@ public class Firstjava {
 		System.out.println("Hi! I am double awesome.");
 		
 	}
+	public void abhilasha(){
+		System.out.println("Hi! I am double awesome.");
+		
+	}
 
 	public static void main(String[] args) {
 
