@@ -21,7 +21,7 @@ public class Firstjava {
 
 	}
 	public void mansi(){
-		System.out.println("Hi! I am awesome.");
+		System.out.println("Hi! I am double awesome.");
 		
 	}
 	
