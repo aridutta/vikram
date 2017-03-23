@@ -20,11 +20,11 @@ public class Firstjava {
 		System.out.println("Added Today.");
 
 	}
+
 	public void mansi(){
 		System.out.println("Hi! I am double awesome.");
 		
 	}
-	
 
 	public static void main(String[] args) {
 
