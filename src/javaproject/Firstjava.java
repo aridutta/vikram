@@ -5,22 +5,31 @@ public class Firstjava {
 	public void show() {
 		System.out.println("hello i am show method");
 	}
+
 	public void masterDemo() {
 
 		System.out.println("This is a master demo i change it ");
-}
+	}
 
-	public void  display(){
+	public void display() {
 		System.out.println("hello i am show method");
 	}
+	// New Addition to the master branch
+
+	public void new_method() {
+		System.out.println("Added Today.");
+
+	}
+
 	public static void main(String[] args) {
-		
-		Firstjava obj=new Firstjava();
+
+		Firstjava obj = new Firstjava();
 		obj.masterDemo();
-		Data obj2=new Data();
+		obj.new_method();
+		Data obj2 = new Data();
 		obj.show();
 		obj.display();
-		obj2.sum(2,3 );
+		obj2.sum(2, 3);
 
-}
+	}
 }
