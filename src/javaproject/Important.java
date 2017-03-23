@@ -14,5 +14,10 @@ public class Important {
 		
 		
 	}
+	public  void  Ajay() {
+		System.out.println("message");
+		
+		
+	}
 
 }
