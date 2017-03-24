@@ -14,10 +14,21 @@ public class Important {
 		
 		
 	}
+<<<<<<< HEAD
 	public  void  Ajay() {
 		System.out.println("message");
 		
 		
 	}
 
+=======
+	public  void  Friday() {
+		System.out.println("Friday");
+		
+		
+	}
+	
+	
+	
+>>>>>>> master
 }
