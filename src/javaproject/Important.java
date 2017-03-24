@@ -29,6 +29,8 @@ public class Important {
 		
 	}
 
-
+	public void vikram(){
+		System.out.println("Important message added ");
+	}
 	
 }
