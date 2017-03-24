@@ -63,8 +63,6 @@ public class Firstjava {
 
 		obj3.Ajay();
 		
-		
-
 
 	}
 }
