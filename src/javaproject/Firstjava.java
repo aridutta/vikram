@@ -45,10 +45,6 @@ public class Firstjava {
 		System.out.println("hi I am vikrambranch method. i added again");
 
 	}
-	// i added a vikrambranch
-
-	// push this to vikram Branch
-
 	public static void main(String[] args) {
 		Important obj3 = new Important();
 		Firstjava obj = new Firstjava();
