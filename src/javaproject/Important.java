@@ -14,14 +14,14 @@ public class Important {
 		
 		
 	}
-
-
-
-	public  void  Friday() {
-		System.out.println("Friday");
+	public  void  Sunday() {
+		System.out.println("message two");
 		
 		
 	}
+
+
+	
 
 
 	public void Ajay() {
@@ -29,8 +29,5 @@ public class Important {
 		
 	}
 
-	public void vikram(){
-		System.out.println("Important message added ");
-	}
 	
 }
