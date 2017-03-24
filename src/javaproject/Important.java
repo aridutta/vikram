@@ -14,5 +14,12 @@ public class Important {
 		
 		
 	}
-
+	public  void  Friday() {
+		System.out.println("Friday");
+		
+		
+	}
+	
+	
+	
 }
