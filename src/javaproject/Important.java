@@ -25,13 +25,9 @@ public class Important {
 		
 		
 	}
-	
-
-
-
 
 	public  void  Friday() {
-		System.out.println("Friday");
+		System.out.println("Friday saturday");
 		
 		
 	}
