@@ -20,7 +20,11 @@ public class Important {
 		
 	}
 
-
+	public  void  Monday() {
+		System.out.println("message to day is monday");
+		
+		
+	}
 	
 
 
