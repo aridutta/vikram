@@ -14,6 +14,15 @@ public class Important {
 		
 		
 	}
+	public  void  Sunday() {
+		System.out.println("message two");
+		
+		
+	}
+
+
+	
+
 
 
 
@@ -24,13 +33,16 @@ public class Important {
 	}
 
 
+
 	public void Ajay() {
 		// TODO Auto-generated method stub
 		
 	}
 
+
 	public void vikram(){
 		System.out.println("Important message added ");
 	}
+
 	
 }
