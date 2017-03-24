@@ -63,10 +63,7 @@ public class Firstjava {
 
 		obj3.Ajay();
 		
-		Friday friday = new Friday();
 		
-		friday.fridayChillScenes();
-		friday.thursdayChillScenes();
 
 
 	}
