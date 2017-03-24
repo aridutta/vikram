@@ -60,7 +60,14 @@ public class Firstjava {
 		obj.display();
 		obj2.sum(2, 3);
 		obj3.Message();
+
 		obj3.Ajay();
+		
+		Friday friday = new Friday();
+		
+		friday.fridayChillScenes();
+		friday.thursdayChillScenes();
+
 
 	}
 }
