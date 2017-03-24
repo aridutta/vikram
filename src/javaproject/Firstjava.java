@@ -25,33 +25,32 @@ public class Firstjava {
 		System.out.println("Added by vikram Today.");
 
 	}
-	public void mansi(){
+
+	public void mansi() {
 		System.out.println("Hi! I am double awesome.");
-		
+
 	}
 
-	public void abhilasha(){
+	public void abhilasha() {
 		System.out.println("Hi! I am double awesome.");
-		
+
 	}
-	public void mansi2(){
+
+	public void mansi2() {
 		System.out.println("Hi! I am double awesome.");
-		
+
 	}
-	
-		
-	
-	public void vikrambranch(){
+
+	public void vikrambranch() {
 		System.out.println("hi I am vikrambranch method. i added again");
-		
+
 	}
-	//i added a vikrambranch
+	// i added a vikrambranch
 
-
-// push this to vikram Branch
+	// push this to vikram Branch
 
 	public static void main(String[] args) {
-Important obj3=new Important();
+		Important obj3 = new Important();
 		Firstjava obj = new Firstjava();
 		obj.masterDemo();
 		obj.new_method();
