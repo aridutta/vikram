@@ -62,10 +62,6 @@ Important obj3=new Important();
 		obj2.sum(2, 3);
 		obj3.Message();
 		
-		Friday friday = new Friday();
 		
-		friday.fridayChillScenes();
-		friday.thursdayChillScenes();
-
 	}
 }
