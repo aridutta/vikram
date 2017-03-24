@@ -25,10 +25,16 @@ public class Important {
 		
 		
 	}
+	public  void  Rishabh() {
+		System.out.println("message to day is monday");
+		
+		
+	}
+
 
 	public  void  Friday() {
 		System.out.println("Friday saturday");
-		
+		//tomorrow we will chill
 		
 	}
 
